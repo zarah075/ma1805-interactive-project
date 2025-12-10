@@ -1,1 +1,11 @@
-# ma1805-interactive-project
+a. 
+
+b. My project is a quick interactive project based on a concept I picked up on in my Introduction to Digital Media Theory module. Mainly, I was inspired by the article we had as our assigned reading, Noble, Safiya Umoja. 2018. ‘A Society, Searching’. In Algorithms of Oppression: How Search Engines Reinforce Racism. New York: NYU Press.
+
+In the article, Noble discusses about the her researech into the prejudiced and sexist rhetoric contained in search engines such as Google. Her searches found that when typing in phrases such as "Women cannot-", "Black women are-"and "Why are black women so-", autofill would come up with racist, sexist and prejudiced stereotypes. One of such examples was the typical look of a doctor, which brought up results of mostly older white men. Google has since corrected their algorithm, but the concept inspired me.
+
+My project works with small buttons and pop up messages; I wanted to include a mechanic similar to the he "voice" in the pop-ups is essentially supposed to represent the algorithm and it's biases, supposedly trying to guide the user to ther "correct" answer. Per that bias there is no "right" answer; Every option comes up with a biased "wrong answer" message "explaining" why the option isn't correct. I also included a shake function to mimic that of games where you click the wrong option.
+
+ISSUES ENCOUNTERED;
+At the start of the project I struggled to load my first image and set it as the background. After this issue was resolved (with help from my lecturer) I was still unsure what exactly caused the issue. While working on the project I realised that you cannot connect elements in a P5JS project to a CSS file the same way you would in HTML, which meant I could not move the buttons or add effects to the images the way I wanted to. I did research to see if I could make these edits another way within the sketch.js, but was ultimately unable to find a way to do so on time. I also struggled with figuring out how to make button without HTML and when I did figure it out, I took a bit to understand how to make multiple. I figured it out soon after but it was still as source of frustration.
+
