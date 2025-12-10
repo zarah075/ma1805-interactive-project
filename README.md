@@ -1,4 +1,4 @@
-a. 
+a. https://zarah075.github.io/ma1805-interactive-project/
 
 b. My project is a quick interactive project based on a concept I picked up on in my Introduction to Digital Media Theory module. Mainly, I was inspired by the article we had as our assigned reading, Noble, Safiya Umoja. 2018. ‘A Society, Searching’. In Algorithms of Oppression: How Search Engines Reinforce Racism. New York: NYU Press.
 
@@ -8,4 +8,5 @@ My project works with small buttons and pop up messages; I wanted to include a m
 
 ISSUES ENCOUNTERED;
 At the start of the project I struggled to load my first image and set it as the background. After this issue was resolved (with help from my lecturer) I was still unsure what exactly caused the issue. While working on the project I realised that you cannot connect elements in a P5JS project to a CSS file the same way you would in HTML, which meant I could not move the buttons or add effects to the images the way I wanted to. I did research to see if I could make these edits another way within the sketch.js, but was ultimately unable to find a way to do so on time. I also struggled with figuring out how to make button without HTML and when I did figure it out, I took a bit to understand how to make multiple. I figured it out soon after but it was still as source of frustration.
+
 
